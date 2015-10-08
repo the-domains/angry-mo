@@ -1,8 +1,7 @@
 name: Angry Mo
-style: A1
 favicon: null
 layout_spectrum: 0.8
-typography_spectrum: 0.5
+style: A1
 title: Angry MO
 cta:
   domain: null
@@ -17,8 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#040404'
+    - '#adbac2'
+    - '#8c4a0f'
+    - '#6e6f6a'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
