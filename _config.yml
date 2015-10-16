@@ -1,6 +1,6 @@
 name: Angry Mo
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.9192113978788257
 style: A1
 title: Angry MO
 cta:
@@ -27,3 +27,4 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
+typography_spectrum: 0.04386934614740312
