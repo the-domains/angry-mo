@@ -25,11 +25,12 @@ author:
   name: Moritz Krog
   email: moritzkrog@gmail.com
   url: 'https://plus.google.com/+Moritz.Krog'
+logo: null
 name: Angry Mo
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/0324253d-66af-452a-ad9c-0a1827eb5b13.jpg'
 title: Angry Mo
 purpose: []
