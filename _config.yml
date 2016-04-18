@@ -22,9 +22,9 @@ analytics:
   facebook: null
   twitter: null
 author:
-  name: null
-  email: null
-  url: null
+  name: Moritz Krog
+  email: moritzkrog@gmail.com
+  url: 'https://plus.google.com/+Moritz.Krog'
 name: Angry Mo
 cta:
   domain: null
