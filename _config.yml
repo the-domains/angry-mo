@@ -30,6 +30,6 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2e0036b-ff18-4463-842a-f0685fe904e5.jpg'
 title: Angry MO
 purpose: []
