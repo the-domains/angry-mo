@@ -31,6 +31,6 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2d08f97-014d-4369-b024-4398451c0baf.jpg'
 title: 'Being Angry!'
 purpose: []
